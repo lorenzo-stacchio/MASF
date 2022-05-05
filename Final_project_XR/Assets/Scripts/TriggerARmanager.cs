@@ -9,11 +9,16 @@ public class TriggerARmanager : MonoBehaviour
     
     private void OnTriggerEnter(Collider other)
     {
-        objectToSpawn.SetActive(true);
+        Debug.Log("Colliding enter with tag " +  other.tag);
+        if (other.tag == "patient"){
+            objectToSpawn.SetActive(true);
+        }
     }
 
     private void OnTriggerExit(Collider other)
     {
-        objectToSpawn.SetActive(false);
+        if (other.tag == "patient"){
+            objectToSpawn.SetActive(false);
+        }
     }
 }

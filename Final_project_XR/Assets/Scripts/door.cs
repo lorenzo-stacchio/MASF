@@ -12,8 +12,8 @@ public class door : MonoBehaviour
     {
         this.init_position = this.GetComponent<Transform>().position;
         this.init_rotation = this.GetComponent<Transform>().rotation;
-        Debug.Log(this.init_position);
-        Debug.Log(this.init_rotation);
+        //Debug.Log(this.init_position);
+        //Debug.Log(this.init_rotation);
         this.entered = false;
     }
 
@@ -21,7 +21,7 @@ public class door : MonoBehaviour
     void OnTriggerEnter(Collider other)
     {
         if (other.tag=="Player" &&  !this.entered){
-            Debug.Log("Here in trigger");
+            //Debug.Log("Here in trigger");
             this.entered = true;
             this.transform.Rotate(0.0f, 0.0f, -90.0f, Space.Self);
             //Debug.Log(this.transform.position.x);
