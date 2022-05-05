@@ -54,7 +54,6 @@ public class media_manager : MonoBehaviour
         default: // temperature
             //36,39
             text_component.text = Mathf.Round(Random.Range(36, 39)).ToString()+ " °C";;
-            Debug.Log("No default");
             break;
         }
     }
