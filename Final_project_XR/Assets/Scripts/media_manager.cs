@@ -22,6 +22,7 @@ public class media_manager : MonoBehaviour
 
     void Start()
     {
+        updateInfo();
         InvokeRepeating("updateInfo", 5.0f, 1);
     }
     
