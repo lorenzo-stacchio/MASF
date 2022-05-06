@@ -5,7 +5,7 @@
  
 Repository to show the [eXtended Reality Spring School 2022](https://www.xrsalento.it/school/) final project. 
 
-The code here available and the [presentation]() were equally made by:
+The code here available and the [presentation](https://docs.google.com/presentation/d/10eDMwIqBO89N-IxWNELlB1tbdlh1t_R68RZHXfEmcrs/edit?usp=sharing) were equally made by:
   * [Eros Viola](https://www.linkedin.com/in/eros-viola-2245901ba/);
   * [Lorenzo Stacchio](https://lorenzo-stacchio.github.io/);
   * [Sabatina Criscuolo](https://www.linkedin.com/in/sabatina-criscuolo/);
