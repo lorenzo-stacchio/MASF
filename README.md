@@ -1,5 +1,8 @@
 # MASF: Monitoring Assistant in Medical Field
 
+<p align="center"><img width="700" height="150" src="images/xr_school_logo.jpg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 Repository to show the [eXtended Reality Spring School 2022](https://www.xrsalento.it/school/) final project. 
 
 The code here available and the [presentation]() were equally made by:
@@ -20,4 +23,7 @@ Indeed, during surgical procedures, in pre-post procedure phases or while taking
 
 To give an idea on how this Augmented Reality system could work, we simulate in Virtual Reality a typical hospital scenario providing implementation for the first two use-cases previously introduced while using simulated data.
 
-## Summing-up the environment with a Gif
+## Summing-up the demo with a GIF
+
+<p align="center"><img width="800" height="400" src="images/demo.gif">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
