@@ -1,6 +1,6 @@
 # MASF: Monitoring Assistant in Medical Field
 
-<p align="center"><img width="700" height="150" src="images/xr_school_logo.jpg">
+<p align="center"><img width="850" height="150" src="images/xr_school_logo.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 Repository to show the [eXtended Reality Spring School 2022](https://www.xrsalento.it/school/) final project. 
