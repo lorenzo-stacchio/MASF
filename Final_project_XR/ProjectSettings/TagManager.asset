@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - patient
+  - patient1
   layers:
   - Default
   - TransparentFX
